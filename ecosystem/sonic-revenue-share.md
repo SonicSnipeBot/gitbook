@@ -150,6 +150,14 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1875546931713470580)\
 **Allocation:** 66% Community, 34% Development
 
+**Epoch 12 Distribution**
+
+**Period:** 25th January\
+**Proof of Distribution**: \
+[https://tinyurl.com/Sonic-Airdrop-1](https://tinyurl.com/Sonic-Airdrop-11)2\
+**Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1881355404116201673)\
+**Allocation:** 62.5% Community, 37.5% Development
+
 #### Future Epoch Distributions
 
 * &#x20;Details To Be Announced
