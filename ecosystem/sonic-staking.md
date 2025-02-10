@@ -44,7 +44,7 @@ For Example: I stake 2k Sonic then want to stake 9k more, this will not work as 
 
 5. Click on The "Stake Button"
 6. Double Check and Confirm the transaction on your Sui Wallet
-7. ![](<../.gitbook/assets/Screenshot 2025-02-10 at 11.36.05 am.png>)\
+7. ![](<../.gitbook/assets/Untitled design (41).png>)\
    \
    **Staking Sonic on Sui Wallet (Mobile):**\
    1\. Open your Sui Wallet App.\
