@@ -12,6 +12,7 @@
 <summary>2025</summary>
 
 * [January 2025](sonic-snipe-updates.md#january-2025)
+* [February 2025](sonic-snipe-updates.md#february-2025)
 
 </details>
 
@@ -34,22 +35,34 @@
 
 </details>
 
-<details>
 
-<summary>2023</summary>
 
-* [December 2023](sonic-snipe-updates.md#december-2023)
-* [November 2023](sonic-snipe-updates.md#november-2023)
-* [October 2023](sonic-snipe-updates.md#october-2023)
-* [September 2023](sonic-snipe-updates.md#september-2023)
-* [August 2023](sonic-snipe-updates.md#august-2023)
-* [July 2023](sonic-snipe-updates.md#july-2024)
-* [June 2023](sonic-snipe-updates.md#june-2023)
-* [May 2023](sonic-snipe-updates.md#may-2023)
+### February 2025
 
-</details>
+#### Tue Feb 11 2025
+
+* **03:02 AM** \[v1.1681]: Trader joe Router Updated, & Fixed bug with Pharaoh.
+* **12:54 AM** \[v1.1680]: Added Support for pharaoh on Avax.
+
+#### Fri Feb 07 2025
+
+* **03:32 AM** \[v1.1679]: Minor Config update for berachain
+* **02:38 AM** \[v1.1678]: Added Bera Chain. Only WBera Pairs Supported. Trade on Kodiak & DYORSWAP, always check liquidity as scammers about.
 
 ### January 2025
+
+#### Tue Jan 21 2025
+
+* **02:18 AM** \[v1.1677]: Fixed some bugs for Airdrop Mechanism
+* **12:50 AM** \[v1.1676]: Fixed Errro Transaction Link
+
+#### Mon Jan 20 2025
+
+* **11:55 PM** \[v1.1675]: Found Issue with Some Good Debugging Base Rpc Incorrect
+* **11:50 PM** \[v1.1674]: Added Debugging for Provider Url
+* **11:23 PM** \[v1.1673]: Rpc Update Base
+* **10:55 PM** \[v1.1672]: Switched Back to Provider, Seemed to be Working
+* **10:35 PM** \[v1.1671]: Switched Service Provider on Base
 
 #### Sun Jan 19 2025
 
