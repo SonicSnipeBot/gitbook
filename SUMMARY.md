@@ -4,6 +4,7 @@
 
 ## Ecosystem
 
+* [Sonic Staking](ecosystem/sonic-staking.md)
 * [Sonic Revenue Share](ecosystem/sonic-revenue-share.md)
 * [Sonic Membership Tiers](ecosystem/sonic-membership-tiers.md)
 * [Refer and Earn with Sonic](ecosystem/refer-and-earn-with-sonic.md)
