@@ -315,3 +315,35 @@ The Provider shall not be held liable for any **losses, discrepancies, or issues
 * **Loss of expected tokens** due to disputes that are not resolved in the user’s favor.
 
 By using the Sonic Snipe Bot platform, the User acknowledges and agrees to these terms and waives any claim against the Provider arising from the airdrop process.
+
+### **20. Staking Terms and Legal Protections**
+
+#### **20.1 Staking Risks and Acknowledgements**
+
+**Smart Contract Risk:** Users acknowledge that staking involves interacting with smart contracts, which, despite thorough audits, may still be vulnerable to unforeseen exploits, bugs, or vulnerabilities. The Provider disclaims any liability for financial losses resulting from issues related to the smart contract.
+
+**Third-Party Audit:** The staking smart contract has been audited by a third party, **Vital Block**, and has passed the audit. Users can review the audit report at: [Vital Block Audit Report](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/SONICSNIPEBOT%20STAKING%20CONTRACT%20AUDIT%20REPORT.pdf). However, an audit does not guarantee absolute security, and the Provider assumes no responsibility for any vulnerabilities discovered post-deployment.
+
+**Front-End Risk:** The staking platform is accessible through a web-based interface. Users acknowledge that issues such as UI bugs, downtime, network failures, or external cyberattacks could impact their ability to interact with the staking contract. The Provider is not liable for any losses resulting from front-end disruptions.
+
+**Regulatory Risk:** Users acknowledge that cryptocurrency staking is subject to evolving regulatory frameworks. The Provider is not responsible for any restrictions, prohibitions, or legal issues that may arise from government regulations affecting staking activities.
+
+#### **20.2 Staking Limitations and User Responsibilities**
+
+**Staking Limits:** Users must adhere to the minimum and maximum staking limits outlined in the staking platform. Attempts to exceed these limits may result in transaction failures, and the Provider assumes no responsibility for unsuccessful staking attempts.
+
+**User Responsibility for Transactions:** All staking, claiming, and unstaking transactions are executed on the blockchain and are irreversible. Users acknowledge that they are solely responsible for verifying transaction details before execution. The Provider does not offer refunds or transaction reversals.
+
+**Wallet Security:** Users are solely responsible for securing their private keys and wallets. Any unauthorized access resulting in loss of staked funds or rewards is the sole responsibility of the User. The Provider does not store private keys and cannot recover lost wallets.
+
+**Claiming Rewards:** Staking rewards must be manually claimed by the User. The Provider does not guarantee automatic distributions and is not responsible for unclaimed rewards.
+
+#### **20.3 Liability and Indemnification**
+
+**No Liability for Losses:** The Provider shall not be held liable for any losses resulting from staking activities, including but not limited to smart contract bugs, front-end failures, blockchain network congestion, transaction delays, or market fluctuations affecting the value of $Sonic tokens.
+
+**Indemnification:** By participating in staking, the User agrees to indemnify and hold harmless the Provider, its affiliates, and its team members from any claims, losses, damages, or legal proceedings arising from their staking activities.
+
+#### **20.4 Amendments to Staking Terms**
+
+The Provider reserves the right to update or modify these staking terms at any time. Users will be notified of any significant changes, and continued participation in staking constitutes acceptance of the updated terms.
