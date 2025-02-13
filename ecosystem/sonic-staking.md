@@ -3,27 +3,32 @@
 To stake your $Sonic, navigate to: [https://stake.sonicsnipebot.com ](https://stake.sonicsnipebot.com)\
 We currently offer a **30% APR** for a limited time staking $Sonic.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-02-10 at 11.23.52 am.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-13 at 12.22.35 pm.png" alt=""><figcaption></figcaption></figure>
 
 **Sonic Staking Platform Guide:**
 
+**Top Panels (Left to Right)**\
 **Your Balance:** Your Sonic Token Balance of your connected wallet. (check top right hand corner).\
 **Your Staked Tokens:** Sonic Tokens you have staked\
+**Your Unclaimed Rewards:** Sonic tokens you have yet to claim\
 **Your Claimed Rewards:** Sonic tokens you have claimed \
+\
+**Bottom Panels  (Left to Right)**\
 **Current APR:** The total amount you will receive on a yearly bases by Staking\
 **Total Amount Staked:** The total amount of $Sonic being Staked\
 **Current Token Price:** The current price of $Sonic per token in usd.\
 \
-**Reward History Section: This Section is Made up of 3 tabs:** \
-**1st Tab:** Displays a graph of your Sonic Tokens Claimed\
-**2nd Tab:** Displays a Log of When you claimed, how much you claimed.\
-**3rd Tab: Rewards Calculator:** Displays a calculation of hows how much you can earn from staking over different time periods.\
+**Middle Panel (This Section is Made up of 3 tabs)**\
+**1st Tab (Reward History Graph) :** Displays a graph of your Sonic Tokens Claimed\
+**2nd Tab  (Reward History Log):** Displays a Log of When you claimed, how much you claimed.\
+**3rd Tab: (Rewards Calculator):** Displays a calculation of hows how much you can earn from staking over different time periods.\
 \
+**Right Panel  (This Section is Made up of 2 tabs)**\
 **Stake Tab:** If you want to stake click on "Stake", it should be displayed by default.\
 **Stake Button:**  Stake your Sonic "Amount", found in the box provided.
 
-**Minimum Staking:** This is the minimum amount you can stake, currently set to 500 $Sonic\
-**Maximum Staking:** This is the maximum $Sonic you can stake, currently set to 10,000 $Sonic\
+**Minimum Staking:** This is the minimum amount you can stake, currently set to 1,000 $Sonic\
+**Maximum Staking:** This is the maximum $Sonic you can stake, currently set to 20,000 $Sonic\
 \
 **25%, 50%, 75%, Max**: This will set accordingly to your total Sonic amount in your connect wallet. \
 **Max:** If you have more than the Max amount, it will choose that amount as this is the maximum you will stake, note, you cannot go over the max limit.\
