@@ -320,15 +320,17 @@ By using the Sonic Snipe Bot platform, the User acknowledges and agrees to these
 
 #### **20.1 Staking Risks and Acknowledgements**
 
-**Smart Contract Risk:** Users acknowledge that staking involves interacting with smart contracts, which, despite thorough audits, may still be vulnerable to unforeseen exploits, bugs, or vulnerabilities. The Provider disclaims any liability for financial losses resulting from issues related to the smart contract.
+**Smart Contract Risk:** Users acknowledge that staking involves interacting with smart contracts, which, despite thorough audits, may still be vulnerable to unforeseen exploits, bugs, or vulnerabilities. If a vulnerability is suspected, Users should immediately cease interactions with the contract and report the issue to the Provider through the official support channels. The Provider disclaims any liability for financial losses resulting from issues related to the smart contract.
 
 **Third-Party Audit:** The staking smart contract has been audited by a third party, **Vital Block**, and has passed the audit. Users can review the audit report at: [Vital Block Audit Report](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/SONICSNIPEBOT%20STAKING%20CONTRACT%20AUDIT%20REPORT.pdf). However, an audit does not guarantee absolute security, and the Provider assumes no responsibility for any vulnerabilities discovered post-deployment.
 
-**Front-End Risk:** The staking platform is accessible through a web-based interface. Users acknowledge that issues such as UI bugs, downtime, network failures, or external cyberattacks could impact their ability to interact with the staking contract. The Provider is not liable for any losses resulting from front-end disruptions.
+**Front-End Risk:** The staking platform is accessible through a web-based interface at [https://stake.sonicsnipebot.com/](https://stake.sonicsnipebot.com/). Users acknowledge that issues such as UI bugs, downtime, network failures, or external cyberattacks could impact their ability to interact with the staking contract. The Provider is not liable for any losses resulting from front-end disruptions.
 
 **Regulatory Risk:** Users acknowledge that cryptocurrency staking is subject to evolving regulatory frameworks. The Provider is not responsible for any restrictions, prohibitions, or legal issues that may arise from government regulations affecting staking activities.
 
 #### **20.2 Staking Limitations and User Responsibilities**
+
+**Staking Parameters Adjustments:** The Provider reserves the right to change the APR, minimum staking amount, maximum staking amount, and lock time at any time. These changes will be reflected on the staking platform interface at [https://stake.sonicsnipebot.com/](https://stake.sonicsnipebot.com/). Users are responsible for reviewing updated parameters before staking. Any previously staked amount will remain unaffected by future changes unless the User decides to unstake and re-stake under new terms.
 
 **Staking Limits:** Users must adhere to the minimum and maximum staking limits outlined in the staking platform. Attempts to exceed these limits may result in transaction failures, and the Provider assumes no responsibility for unsuccessful staking attempts.
 
