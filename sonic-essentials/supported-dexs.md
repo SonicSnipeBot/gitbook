@@ -106,6 +106,10 @@
   * LFJ (v2): [0xb4315e873dBcf96Ffd0acd8EA43f689D8c20fB30](https://avascan.io/address/0xb4315e873dBcf96Ffd0acd8EA43f689D8c20fB30)
   * LFJ  (v1): [0xb4315e873dBcf96Ffd0acd8EA43f689D8c20fB30](https://avascan.io/address/0xb4315e873dBcf96Ffd0acd8EA43f689D8c20fB30)
   * TokenMill by LFJ (v1): Check Blockchain for Contract
+  * Pharaoh (v2):  [Router Info Provided on Dex](https://pharaoh.exchange/)
+  * Pharaoh (V3):  [Router Info Provided on Dex](https://pharaoh.exchange/)
+  * Uniswap (V3):  [Router Info Provided on Dex](https://uniswap.org)
+  * Uniswap (V2): [ Router Info Provided on Dex](https://uniswap.org)
   * Bellum (v1): [Router Info Provided on Dex](https://bellum.exchange/)
 
 #### BASE Network
