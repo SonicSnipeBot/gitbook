@@ -39,6 +39,20 @@
 
 ### February 2025
 
+#### Fri Feb 14 2025
+
+* **11:32 AM** \[v1.1686]: Disabled Four Meme, CZ's Plee of Keep Building has been throne out the window
+* **10:43 AM** \[v1.1685]: Temporary Disabled Springboard as Cz is not for building
+* **01:20 AM** \[v1.1684]: Added Proper Pharaoh V2 & V3 Contracts
+
+#### Thu Feb 13 2025
+
+* **07:44 PM** \[v1.1683]: Temporary disabled pharaoh
+
+#### Wed Feb 12 2025
+
+* **01:35 AM** \[v1.1682]: Uniswap V2 & V3 Added
+
 #### Tue Feb 11 2025
 
 * **03:02 AM** \[v1.1681]: Trader joe Router Updated, & Fixed bug with Pharaoh.
@@ -46,8 +60,8 @@
 
 #### Fri Feb 07 2025
 
-* **03:32 AM** \[v1.1679]: Minor Config update for berachain
-* **02:38 AM** \[v1.1678]: Added Bera Chain. Only WBera Pairs Supported. Trade on Kodiak & DYORSWAP, always check liquidity as scammers about.
+* **03:32 AM** \[v1.1679]: Minor Conifg update for Berachain
+* **02:38 AM** \[v1.1678]: Added BeraChain. Only WBera Pairs Supported. Trade on Kodiak & DyorSwap, always check liquidity as scammers about.
 
 ### January 2025
 
