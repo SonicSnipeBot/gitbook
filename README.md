@@ -20,7 +20,7 @@ Sonic Snipe Bot is an Automated trading bot designed for fast trading execution,
 * [Sonic Revenue Share](ecosystem/sonic-revenue-share.md)
 * [Sonic Membership Tiers](ecosystem/sonic-membership-tiers.md)
 * [Refer and Earn with Sonic](ecosystem/refer-and-earn-with-sonic.md)
-* [Sui Allocation Plan](ecosystem/sui-allocation-plan.md)
+* [Sui Allocation Plan](ecosystem/sui-allocation.md)
 
 ### Engagement
 
