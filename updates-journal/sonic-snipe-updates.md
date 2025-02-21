@@ -39,6 +39,25 @@
 
 ### February 2025
 
+#### Fri Feb 21 2025
+
+* **09:57 PM** \[v1.1694]: Updated caching Degan Express
+
+#### Thu Feb 20 2025
+
+* **10:59 PM** \[v1.1693]: Added Shadow Exchange V3 Added
+* **04:23 PM** \[v1.1692]: Attempted to add SilverSwap, No need at this stage as its shit anyway so leaving it
+* **04:08 PM** \[v1.1691]: Added Support for shadow-exchange & SwapX
+* **12:20 PM** \[v1.1690]: Added Degan Express on Sonic Network
+
+#### Wed Feb 19 2025
+
+* **01:45 AM** \[v1.1689]: No more Promotional Offer 20% Commission is standard.
+
+#### Sun Feb 16 2025
+
+* **12:30 AM** \[v1.1688]: Fixed Critical Bug on BSC.
+
 #### Fri Feb 14 2025
 
 * **11:32 AM** \[v1.1686]: Disabled Four Meme, CZ's Plee of Keep Building has been throne out the window
