@@ -6,7 +6,7 @@ We believe in sharing success with those who support and grow our ecosystem. Tha
 
 #### How It Works?
 
-Each Epoch (or month), trading fees on Sonic are distributed among top Sonic token holders. The number of eligible holders will be determined and announced with each distribution.
+Each Epoch, trading fees on Sonic are distributed among top Sonic token holders. The number of eligible holders will be determined and announced with each distribution.
 
 **Revenue Share Allocation (Best Scenario)**
 
@@ -16,11 +16,8 @@ Each Epoch (or month), trading fees on Sonic are distributed among top Sonic tok
 * **10% to Treasury**: Ensuring long-term sustainability and stability.
 * **10% to BuyBack:** Used to Buy back of the Sonic Token
 
-> **Note**: \
-> This Allocation reflects the best scenario for revenue sharing. Allocations may vary by epoch based on strategic considerations.\
-> See also [Revenue Share Distribution](sonic-revenue-share.md#revenue-share-distribution)
-
-Here is the updated version based on your requirements:
+> **Note:** The allocation above reflects the best-case scenario for revenue sharing, actual distributions may vary by epoch based on strategic considerations. While we remain committed to rewarding holders, and staking already provides incentives, revenue share allocations will be adjusted based on earnings. This ensures that while holders benefit, a strong focus is maintained on development and platform growth to support long-term sustainability and ecosystem expansion.\
+> See also [sonic-staking.md](sonic-staking.md "mention")
 
 ***
 
