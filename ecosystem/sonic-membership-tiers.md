@@ -5,10 +5,10 @@
 #### **How to Activate:**
 
 * **Standard**: Automatically applied to all users.
-* **Premium**: Hold 150 Sonic Tokens and use the command `/activate` in the bot.
-* **Platinum**: Hold 300 Sonic Tokens and use the command `/activate` in the bot.
-* **Gold**: Hold 1500 Sonic Tokens and use the command `/activate` in the bot.
-* **Vip**: Hold 3000 Sonic Tokens and use the command `/activate` in the bot.
+* **Premium**: Hold 1000 Sonic Tokens and use the command `/activate` in the bot.
+* **Platinum**: Hold 3000 Sonic Tokens and use the command `/activate` in the bot.
+* **Gold**: Hold 5000 Sonic Tokens and use the command `/activate` in the bot.
+* **Vip**: Hold 10000 Sonic Tokens and use the command `/activate` in the bot.
 
 ***
 
