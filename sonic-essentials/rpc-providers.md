@@ -1,4 +1,4 @@
-# RPC Providers
+# Node Providers
 
 ### Default RPC Providers
 

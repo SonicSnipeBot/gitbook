@@ -25,7 +25,7 @@ To Use the Default Anti Mev / Public Provider you will need to Remove Your Custo
 
 We use Different RPC's For Limit Trading, Sniping & Refreshing Single Snipe Wallet
 
-[View Default RPC's](../sonic-essentials/node-providers.md)
+[View Default RPC's](../sonic-essentials/rpc-providers.md)
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-06 at 12.45.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
