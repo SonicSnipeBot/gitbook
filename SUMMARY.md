@@ -39,8 +39,8 @@
 * [Supported Networks](sonic-essentials/supported-networks.md)
 * [Supported Protocols](sonic-essentials/supported-protocols.md)
 * [Supported Dex's](sonic-essentials/supported-dexs.md)
-* [RPC Providers](sonic-essentials/rpc-providers.md)
-* [Sonic Bot Providers](sonic-essentials/sonic-bot-providers.md)
+* [Node Providers](sonic-essentials/node-providers.md)
+* [Sonic App Providers](sonic-essentials/sonic-app-providers.md)
 * [Quick Panel](sonic-essentials/quick-panel.md)
 
 ## Additional Products

@@ -53,8 +53,8 @@ Earn While Growing the Sonic Ecosystem
 * [Quick Panel](sonic-essentials/quick-panel.md)
 * [Supported Networks](sonic-essentials/supported-networks.md)
 * [Supported Dex's](sonic-essentials/supported-networks.md)
-* [Default RPC Providers](sonic-essentials/rpc-providers.md)
-* [Sonic Snipe Bot Providers](sonic-essentials/sonic-bot-providers.md)
+* [Default RPC Providers](sonic-essentials/node-providers.md)
+* [Sonic Snipe Bot Providers](sonic-essentials/sonic-app-providers.md)
 
 ### Additional Products
 
