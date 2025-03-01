@@ -37,6 +37,7 @@
 ## Sonic Essentials
 
 * [Supported Networks](sonic-essentials/supported-networks.md)
+* [Supported Protocols](sonic-essentials/supported-protocols.md)
 * [Supported Dex's](sonic-essentials/supported-dexs.md)
 * [RPC Providers](sonic-essentials/rpc-providers.md)
 * [Sonic Bot Providers](sonic-essentials/sonic-bot-providers.md)
