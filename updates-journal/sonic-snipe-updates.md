@@ -13,6 +13,7 @@
 
 * [January 2025](sonic-snipe-updates.md#january-2025)
 * [February 2025](sonic-snipe-updates.md#february-2025)
+* [March 2025](sonic-snipe-updates.md#march-2025)
 
 </details>
 
@@ -37,10 +38,70 @@
 
 
 
+### March 2025
+
+#### Sat Mar 08 2025
+
+* **11:29 PM** \[v1.1722]: Disabling AF completely it has network issues, Hop.Ag is King.
+* **11:18 PM** \[v1.1721]: Attempting to add 2 Aggregators incase one doesnt work AF & Hop.Af
+* **05:33 PM** \[v1.1720]: Updated to Hop.Ag
+* **05:07 PM** \[v1.1719]: Hop Integration update
+* **05:04 PM** \[v1.1718]: Hop.Ag Integration
+* **05:03 PM** \[v1.1717]: Reverting to Hop.Ag as Aftermath is Buggy and unusuable.
+* **12:37 PM** \[v1.1716]: Supressing Error till Aftermath Fixes Issue
+* **11:42 AM** \[v1.1715]: Admin updated, modified start
+* **11:03 AM** \[v1.1714]: Administration update, Logging Years & update
+* **10:44 AM** \[v1.1713]: Added More Debugging
+
+#### Wed Mar 05 2025
+
+* **07:57 PM** \[v1.1712]: Disabled DeganExpress, Website is no longer Accessible, Keep Clear.
+* **07:18 PM** \[v1.1711]: Updated Sonic Chart Prices
+* **06:45 PM** \[v1.1710]: Updated Sonic Chart
+* **05:36 PM** \[v1.1709]: Addded Extra Code to See Malicious Sends from Users.
+
+#### Tue Mar 04 2025
+
+* **12:45 PM** \[v1.1708]: Added Image Chart to Check Safe
+
+#### Mon Mar 03 2025
+
+* **01:53 PM** \[v1.1707]: Added Restriction to Wallet Names, Fixed Catch Error
+* **01:29 PM** \[v1.1706]: Fixed Activation issue, Added Wallet Rename Restrictions
+
+#### Sun Mar 02 2025
+
+* **11:23 AM** \[v1.1705]: Added 10 networks for easy Dex Screener Paste
+* **11:02 AM** \[v1.1704]: Updated the Prices 1000, Premium, 1500 Platinum, 3000 Gold, 5000 VIP
+
+#### Sat Mar 01 2025
+
+* **09:14 PM** \[v1.1703]: Updated MemberShip 500, 1000, 3000, 5000
+* **08:22 PM** \[v1.1702]: Added Vietnamese Language.
+
 ### February 2025
+
+#### Fri Feb 28 2025
+
+* **08:52 PM** \[v1.1701]: Sanitize Catching Errors
+* **01:38 AM** \[v1.1700]: Fixed Unusual Bug for Catch Error.
+
+#### Thu Feb 27 2025
+
+* **12:43 AM** \[v1.1699]: Adjusted Membership Token Amount From Sonic Price
+* **12:01 AM** \[v1.1698]: Fixed Commision Bug MOre Administration Update.
+
+#### Wed Feb 26 2025
+
+* **12:59 PM** \[v1.1697]: Removed Some Development Debugging
+
+#### Tue Feb 25 2025
+
+* **09:31 PM** \[v1.1696]: Fixed V3 Router on WAGMI.
 
 #### Fri Feb 21 2025
 
+* **11:29 PM** \[v1.1695]: Fixed Pharaoh Bug
 * **09:57 PM** \[v1.1694]: Updated caching Degan Express
 
 #### Thu Feb 20 2025
