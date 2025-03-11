@@ -16,13 +16,25 @@ layout:
     visible: true
 ---
 
-# Sui Allocation Plan
+# Sui Allocation
 
-### Overview
+### Overview  (March 2025 Allocation Update)
 
-The Sonic Token Allocation presale plan outlines the distribution and vesting schedule across various allocation&#x73;**.** It includes detailed information on token distribution, contribution limits, and vesting periods across different categories as we prepare for launch.
+The Sonic Token Allocation has been updated post launch as below, due to utility added like staking, or further strategic opportunities like burning tokens.  It may be updated from time to time.
 
 ***
+
+### Token Allocation Breakdown
+
+<table><thead><tr><th width="262.837890625">Allocation</th><th width="257">Tokens Allocated</th><th>Allocation %</th></tr></thead><tbody><tr><td>Burnt Tokens</td><td>3,895,179</td><td>38.95%</td></tr><tr><td>Tokens in Trade (Circulating)</td><td>3,330,000</td><td>33%</td></tr><tr><td>Liquidity Paired (Circulating)</td><td>1,000,000</td><td>10%</td></tr><tr><td>Reserve for Staking </td><td>1,000,000</td><td>10%</td></tr><tr><td>Team</td><td>490,000</td><td>4.9%</td></tr><tr><td>Treasury</td><td>10,000</td><td>1%</td></tr><tr><td>Airdrop</td><td>50,000</td><td>0.5%</td></tr><tr><td>Marketing</td><td>40,000</td><td>0.4%</td></tr><tr><td>Liquidity Purpose </td><td>10,000</td><td>0.1%</td></tr></tbody></table>
+
+_**Note**:_ \
+&#xNAN;_&#x31;) Token allocation may be adjusted depending on allocation importance, i.e Some of team tokens will be allocated to staking to further benefit its utility._\
+2\) Above is rough allocation estimation and adjusted as strategically as can be, refer to 1.
+
+### Overview  (October 2024, Just for Viewing)
+
+The Sonic Token Allocation presale plan outlines the distribution and vesting schedule across various allocation&#x73;**.** It includes detailed information on token distribution, contribution limits, and vesting periods across different categories as we prepare for launch.
 
 ### Token Allocation Breakdown
 
@@ -34,7 +46,7 @@ _1)_ Vested tokens that are not used at the time of unlock, will either be reloc
 
 ***
 
-### Public Sale Contribution Details
+### Public Sale Contribution Details  (October 2024, Just for Viewing)
 
 <table data-header-hidden><thead><tr><th width="139"></th><th width="178"></th><th width="158"></th><th width="154"></th><th width="143"></th></tr></thead><tbody><tr><td><strong>Category</strong></td><td><strong>Max Contribution</strong> </td><td><strong>Max Allocation</strong> </td><td><strong>Approximate</strong><br><strong>Price on Listing</strong> </td><td> <strong>Total Raise</strong><br><strong>Expectation</strong></td></tr><tr><td>Public Sale</td><td>500 Sui</td><td>103,000 (1.03%)</td><td>495 Sui</td><td>16000 Sui</td></tr></tbody></table>
 
@@ -42,7 +54,7 @@ _**Note**:_  Price on Listing is subject to fluctuation based on market volatili
 
 ***
 
-### Raise Allocation Breakdown
+### Raise Allocation Breakdown  (October 2024, Just for Viewing)
 
 | **Allocation**           | **Percentage** |
 | ------------------------ | -------------- |
@@ -57,7 +69,7 @@ _1)_ The distribution percentages for the raise allocation may be adjusted based
 
 ***
 
-### Token Circulation & Market Valuation
+### Token Circulation & Market Valuation  (October 2024, Just for Viewing)
 
 | **Category**                            | **Details**       |
 | --------------------------------------- | ----------------- |
@@ -75,11 +87,11 @@ _**Note:**_ The values related to circulating supply and market valuation are su
 
 ### Liquidity Management
 
-We will add the liquidity to the Sui-based DEX using the [Cetus Protocol](https://www.cetus.zone/), (the largest liquidity DEX on Sui), to take advantage of the liquidity provider (LP) fees.  \
+Liquidity was added to the Sui-based DEX using the [Cetus Protocol](https://www.cetus.zone/), (the largest liquidity DEX on Sui), to take advantage of the liquidity provider (LP) fees.  \
 \
-The liquidity pool will be burned indefinitely. [Proof of Burn](https://suiscan.xyz/mainnet/tx/4do6k7HCDxrCp1xiza2ys1TmAC9nhmTh4A371w65hr7C)
+The liquidity pool was be burned indefinitely. [Proof of Burn](https://suiscan.xyz/mainnet/tx/4do6k7HCDxrCp1xiza2ys1TmAC9nhmTh4A371w65hr7C)
 
-We will  claim the accumulated fees as needed. These fees will be used to support the growth of the Sonic ecosystem, for other purposes such as development, or be distributed effectively within the liquidity pool itself to maintain stability.
+We will claim the accumulated fees as needed. These fees will be used to support the growth of the Sonic ecosystem, for other purposes such as development, or be distributed effectively within the liquidity pool itself to maintain stability.
 
 ***
 
