@@ -1,6 +1,7 @@
 # Sonic Staking
 
 To stake your $Sonic, navigate to: [https://stake.sonicsnipebot.com ](https://stake.sonicsnipebot.com)\
+Staking also Available through [https://t.me/sonicsnipebot ](https://t.me/sonicsnipebot)\
 We currently offer a **30% APR** for a limited time staking $Sonic.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-13 at 12.22.35 pm.png" alt=""><figcaption></figcaption></figure>
@@ -55,4 +56,21 @@ For Example: I stake 2k Sonic then want to stake 9k more, this will not work as 
    1\. Open your Sui Wallet App.\
    2\. Tap on the Apps Tab\
    3\. Enter the address [http://stake.sonicsnipebot.com](https://t.co/SiHi6fnYPh)\
-   4\. Follow **Staking Sonic on Desktop** Steps 4- 7
+   4\. Follow **Staking Sonic on Desktop** Steps 4- 7\
+   \
+   **Stake Sonic on  our  Telegram App &  Take Advantage of our** [sonic-membership-tiers.md](sonic-membership-tiers.md "mention")
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+\
+\
+**How to Stake in Bot?**\
+1\. Navigate to https://t.me/sonicsnipebot\
+2\. Follow [Broken link](broken-reference "mention")to setup your account\
+3\.  Paste the $Sonic Contract in bot **(Skip 3 & 4 if you imported your wallet key)**\
+4\.  Buy some $Sonic\
+5\. Type /stake\
+6\. Click on "Stake"\
+7\. Activate your membership Tier by typing /activate, find out more here: [sonic-membership-tiers.md](sonic-membership-tiers.md "mention")\
+\
+**Note:** Tokens that are staked and unstaked are both counted!
