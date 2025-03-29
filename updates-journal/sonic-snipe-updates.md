@@ -74,7 +74,7 @@
 
 #### Tue Mar 25 2025
 
-* **10:55 PM** \[v1.1764]: First Succesful Swap of Uniswap V4.
+* **10:55 PM** \[v1.1764]: First Successful Swap of Uniswap V4.
 * **02:44 PM** \[v1.1763]: Attempting to Add V4 Support
 
 #### Sat Mar 22 2025
@@ -118,7 +118,7 @@
 * **05:49 PM** \[v1.1741]: Administrative Stake Check
 * **05:34 PM** \[v1.1740]: Full Update of Staking Dashboard & Membership Tiers to Work Staking & Non Staking.
 * **05:30 PM** \[v1.1739]: Sonic Stake Tokens Also Counted As Fees for Membership Tier
-* **05:02 PM** \[v1.1738]: Succesffully Added Staking Dashboard
+* **05:02 PM** \[v1.1738]: Successfully Added Staking Dashboard
 * **04:25 PM** \[v1.1737]: Adding Stakng Dashboard to Sonic
 * **11:38 AM** \[v1.1736]: Testing Staking Within Bot
 
@@ -126,8 +126,8 @@
 
 * **08:09 PM** \[v1.1735]: Added Option Hop & 7k Routes
 * **03:28 PM** \[v1.1734]: Caught strange Error on Contracts Management
-* **02:50 PM** \[v1.1733]: Incorperating the Use of 7k Protocol for utility on Sui.
-* **02:25 PM** \[v1.1732]: Administritive Test Checkpoint.
+* **02:50 PM** \[v1.1733]: Incorporating the Use of 7k Protocol for utility on Sui.
+* **02:25 PM** \[v1.1732]: Administrative Test Checkpoint.
 * **02:03 PM** \[v1.1731]: Switching to Aftermath for now
 * **01:54 PM** \[v1.1730]: Sorted Folder for Administration Purpose. Testing AfterMath
 
@@ -153,12 +153,12 @@
 #### Sat Mar 08 2025
 
 * **11:29 PM** \[v1.1722]: Disabling AF completely it has network issues, Hop.Ag is King.
-* **11:18 PM** \[v1.1721]: Attempting to add 2 Aggregators incase one doesnt work AF & Hop.Af
+* **11:18 PM** \[v1.1721]: Attempting to add 2 Aggregators incase one doesn't work AF & Hop.Af
 * **05:33 PM** \[v1.1720]: Updated to Hop.Ag
 * **05:07 PM** \[v1.1719]: Hop Integration update
 * **05:04 PM** \[v1.1718]: Hop.Ag Integration
-* **05:03 PM** \[v1.1717]: Reverting to Hop.Ag as Aftermath is Buggy and unusuable.
-* **12:37 PM** \[v1.1716]: Supressing Error till Aftermath Fixes Issue
+* **05:03 PM** \[v1.1717]: Reverting to Hop.Ag as Aftermath is Buggy and unusable.
+* **12:37 PM** \[v1.1716]: Suppressing Error till Aftermath Fixes Issue
 * **11:42 AM** \[v1.1715]: Admin updated, modified start
 * **11:03 AM** \[v1.1714]: Administration update, Logging Years & update
 * **10:44 AM** \[v1.1713]: Added More Debugging
@@ -168,7 +168,7 @@
 * **07:57 PM** \[v1.1712]: Disabled DeganExpress, Website is no longer Accessible, Keep Clear.
 * **07:18 PM** \[v1.1711]: Updated Sonic Chart Prices
 * **06:45 PM** \[v1.1710]: Updated Sonic Chart
-* **05:36 PM** \[v1.1709]: Addded Extra Code to See Malicious Sends from Users.
+* **05:36 PM** \[v1.1709]: Added Extra Code to See Malicious Sends from Users.
 
 #### Tue Mar 04 2025
 
