@@ -40,8 +40,6 @@
 
 ### March 2025
 
-### March 2025
-
 #### Sat Mar 29 2025
 
 * **08:44 PM** \[v1.1785]: Modification of Membership Type Limits, Updated on Website.
