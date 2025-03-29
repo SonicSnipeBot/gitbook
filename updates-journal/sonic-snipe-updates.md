@@ -40,6 +40,116 @@
 
 ### March 2025
 
+### March 2025
+
+#### Sat Mar 29 2025
+
+* **12:28 PM** \[v1.1782]: Wallet Construct Update, cleaned up code.
+* **11:12 AM** \[v1.1781]: Wallet Transfers Log on Specific Events.
+* **12:13 AM** \[v1.1780]: Successfully Ported Wallets to Wallet Construct, Tron now supports multi snipe.
+
+#### Fri Mar 28 2025
+
+* **01:36 PM** \[v1.1779]: V4 limited Trading Not Supported Yet.
+* **12:41 PM** \[v1.1778]: Deprecated Cetus Sdk, No Longer Using it.
+* **11:53 AM** \[v1.1777]: Fixed the Display of Sell Amount on 7k.
+
+#### Thu Mar 27 2025
+
+* **12:02 PM** \[v1.1776]: Changed blockchain explorer on unichain to uniscan.
+* **11:25 AM** \[v1.1775]: Uniswap V4 Beta Mode Warning.
+* **11:21 AM** \[v1.1774]: Pool Key Handling.
+* **12:39 AM** \[v1.1773]: Setting a Standard V2 Version for non Evm
+* **12:30 AM** \[v1.1772]: Removed Cetus for now, Using 7k
+
+#### Wed Mar 26 2025
+
+* **08:15 PM** \[v1.1771]: Added disclaimer for Uniswap V4
+* **08:03 PM** \[v1.1770]: Successfully Added Buy Exact Token Amount And Sell Currency Amount for Uniswap V4, Only Enabling it on UniChain For Now
+* **07:08 PM** \[v1.1769]: Full Network Settings Update.
+* **05:35 PM** \[v1.1768]: Updated Network Settings.
+* **05:17 PM** \[v1.1767]: Network Settings Updating.
+* **04:53 PM** \[v1.1766]: Added UniSwap V4 Testing.
+* **02:23 AM** \[v1.1765]: Added Quote, Stuck on Permi2 Shenanigens.
+
+#### Tue Mar 25 2025
+
+* **10:55 PM** \[v1.1764]: First Succesful Swap of Uniswap V4.
+* **02:44 PM** \[v1.1763]: Attempting to Add V4 Support
+
+#### Sat Mar 22 2025
+
+* **08:44 PM** \[v1.1762]: Minor Updated Admin Unzip
+* **08:42 PM** \[v1.1761]: Admin Update, Unzip.
+* **08:29 PM** \[v1.1760]: UniChain Rpc Updated.
+
+#### Fri Mar 21 2025
+
+* **03:10 PM** \[v1.1759]: Quick Bug Fix for Pumpswap
+* **03:05 PM** \[v1.1758]: PumpSwap Supported.
+* **12:17 PM** \[v1.1757]: Pumpswap Added to Be Routed through JupiterSwap When Supported.
+
+#### Thu Mar 20 2025
+
+* **08:39 PM** \[v1.1756]: Admin update for Administration
+* **07:57 PM** \[v1.1755]: Airdrop Updated, API seems to have updated.
+* **07:37 PM** \[v1.1754]: Fixed Airdrop
+* **05:56 PM** \[v1.1753]: API Key Change.
+
+#### Wed Mar 19 2025
+
+* **03:49 PM** \[v1.1752]: Backup Script updated
+* **03:45 PM** \[v1.1751]: Admin Update for Recovery
+
+#### Tue Mar 18 2025
+
+* **02:10 PM** \[v1.1750]: Added Transfer Logs for Both Tron & Injective, Injective needs Attention but works, packages have been played by the amatuer developers, probably undergrads or third world country developers.
+* **01:26 PM** \[v1.1749]: Some not so smart person damaged the injective package, setting it to a stable release.
+* **12:40 PM** \[v1.1748]: Added Tron Transfer Logging.
+* **12:30 PM** \[v1.1747]: Disabled Solana Transfer, Users can export key and do token transfers via Phantom for now, Fixed bug with Ton not detecting ton Wallet , balances should show correctly, added Ton to Log for Transfers.
+
+#### Mon Mar 17 2025
+
+* **11:14 PM** \[v1.1746]: Logs added for Solana Transfer, Token Transfer is Buggy, Needs Attention.
+* **10:46 PM** \[v1.1745]: Added Sui to Transfer Logs
+* **09:43 PM** \[v1.1744]: Administration Safetly Logs on EVM, Transfers.
+* **07:03 PM** \[v1.1743]: Fixed Minor Bug in the Staking Platform
+* **06:02 PM** \[v1.1742]: Fixed Bug on Staking Platform
+* **05:49 PM** \[v1.1741]: Administrative Stake Check
+* **05:34 PM** \[v1.1740]: Full Update of Staking Dashboard & Membership Tiers to Work Staking & Non Staking.
+* **05:30 PM** \[v1.1739]: Sonic Stake Tokens Also Counted As Fees for Membership Tier
+* **05:02 PM** \[v1.1738]: Succesffully Added Staking Dashboard
+* **04:25 PM** \[v1.1737]: Adding Stakng Dashboard to Sonic
+* **11:38 AM** \[v1.1736]: Testing Staking Within Bot
+
+#### Sat Mar 15 2025
+
+* **08:09 PM** \[v1.1735]: Added Option Hop & 7k Routes
+* **03:28 PM** \[v1.1734]: Caught strange Error on Contracts Management
+* **02:50 PM** \[v1.1733]: Incorperating the Use of 7k Protocol for utility on Sui.
+* **02:25 PM** \[v1.1732]: Administritive Test Checkpoint.
+* **02:03 PM** \[v1.1731]: Switching to Aftermath for now
+* **01:54 PM** \[v1.1730]: Sorted Folder for Administration Purpose. Testing AfterMath
+
+#### Fri Mar 14 2025
+
+* **04:30 PM** \[v1.1729]: Switching Rpc's on Avax
+* **11:14 AM** \[v1.1728]: Small Update on Analyse
+* **01:17 AM** \[v1.1727]: Analyse Wallets now include only for Admins for now.
+
+#### Thu Mar 13 2025
+
+* **01:18 AM** \[v1.1726]: Analysis Updated, May Include it for Admin use.
+
+#### Wed Mar 12 2025
+
+* **06:37 PM** \[v1.1725]: Analysis Updated.
+* **05:41 PM** \[v1.1724]: Data Analysis
+
+#### Sun Mar 09 2025
+
+* **02:52 PM** \[v1.1723]: Updated Membership Module
+
 #### Sat Mar 08 2025
 
 * **11:29 PM** \[v1.1722]: Disabling AF completely it has network issues, Hop.Ag is King.
