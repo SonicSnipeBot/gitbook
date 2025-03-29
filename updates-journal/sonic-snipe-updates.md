@@ -44,6 +44,9 @@
 
 #### Sat Mar 29 2025
 
+* **08:44 PM** \[v1.1785]: Modification of Membership Type Limits, Updated on Website.
+* **08:05 PM** \[v1.1784]: Price Notifications updated.
+* **06:56 PM** \[v1.1783]: Successfully Updated Membership Tiers To Include Benefits depending on membership, like more wallets, limit tradings etc, check docs.sonicsnipebot.com to find out more
 * **12:28 PM** \[v1.1782]: Wallet Construct Update, cleaned up code.
 * **11:12 AM** \[v1.1781]: Wallet Transfers Log on Specific Events.
 * **12:13 AM** \[v1.1780]: Successfully Ported Wallets to Wallet Construct, Tron now supports multi snipe.
