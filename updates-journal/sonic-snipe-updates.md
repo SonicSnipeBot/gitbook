@@ -40,8 +40,19 @@
 
 ### March 2025
 
+#### Mon Mar 31 2025
+
+* **10:34 AM** \[v1.1790]: Enabled Aftermath.
+* **10:16 AM** \[v1.1789]: Fixed Limit Trade Bug.
+
+#### Sun Mar 30 2025
+
+* **12:08 AM** \[v1.1788]: Sonic Chart working for Abstract.
+
 #### Sat Mar 29 2025
 
+* **11:59 PM** \[v1.1787]: Added Contract Link Support on Abstract.
+* **11:20 PM** \[v1.1786]: Added Abstract Network.
 * **08:44 PM** \[v1.1785]: Modification of Membership Type Limits, Updated on Website.
 * **08:05 PM** \[v1.1784]: Price Notifications updated.
 * **06:56 PM** \[v1.1783]: Successfully Updated Membership Tiers To Include Benefits depending on membership, like more wallets, limit tradings etc, check docs.sonicsnipebot.com to find out more
