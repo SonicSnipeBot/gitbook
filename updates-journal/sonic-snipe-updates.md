@@ -14,6 +14,7 @@
 * [January 2025](sonic-snipe-updates.md#january-2025)
 * [February 2025](sonic-snipe-updates.md#february-2025)
 * [March 2025](sonic-snipe-updates.md#march-2025)
+* A[pril 2025](sonic-snipe-updates.md#april-2025)
 
 </details>
 
@@ -36,7 +37,33 @@
 
 </details>
 
+### April 2025
 
+#### Mon Apr 14 2025
+
+* **11:53 AM** \[v1.1802]: Fixed Abstreact Transfer Issue
+
+#### Sat Apr 12 2025
+
+* **11:15 PM** \[v1.1801]: Updated Base Rpc Node
+* **04:19 PM** \[v1.1800]: Updated Sui Node
+* **12:32 PM** \[v1.1799]: Temporary API for Sui
+* **10:54 AM** \[v1.1798]: Admin Update.
+
+#### Wed Apr 09 2025
+
+* **04:30 PM** \[v1.1797]: Price Api Updated Properly for Quick Change
+* **04:11 PM** \[v1.1796]: Updated Coingecko Api
+
+#### Thu Apr 03 2025
+
+* **12:39 PM** \[v1.1795]: Made it Easier to Select on Zap (Multi Wallet) Wallets
+* **12:28 AM** \[v1.1794]: Fixed Public Provider Bug on Multi Snipe.
+* **12:14 AM** \[v1.1793]: Going by Wallet Names, Instead of Wallet Address (If Wallet Names Set) on Multi Wallet Snipe (Also Known as Zap) , Also for Snipe New Launches (When Available), its easier this way.
+
+#### Wed Apr 02 2025
+
+* **10:58 AM** \[v1.1792]: Minor Updates for Abstract.
 
 ### March 2025
 
