@@ -137,8 +137,6 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1869619371020358123)\
 **Allocation:** 60% Community, 7% Marketing, 7% Treasury, 28% Development
 
-
-
 **Epoch 11 Distribution**
 
 **Period:** 4th January\
@@ -153,7 +151,23 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Proof of Distribution**: \
 [https://tinyurl.com/Sonic-Airdrop-1](https://tinyurl.com/Sonic-Airdrop-11)2\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1881355404116201673)\
-**Allocation:** 62.5% Community, 37.5% Development
+**Allocation:** 62.5% Community, 37.5% Development\
+\
+**Epoch 13 Distribution**\
+\
+**Period:** 20th March\
+**Proof of Distribution:**\
+[https://tinyurl.com/Sonic-Buyback-and-Burn-1](https://tinyurl.com/Sonic-Buyback-and-Burn-1)\
+**Announcement**:[ View Twitter](https://x.com/SonicSnipeBot/status/1902658387483189692)\
+**Allocation:** 80% Community, 20% Development\
+\
+**Epoch 14 Distribution**\
+\
+**Period:** 20th April\
+**Proof of Distribution:**\
+[https://tinyurl.com/Sonic-Airdrop-14](https://tinyurl.com/Sonic-Airdrop-14)\
+**Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1913773738136682645)\
+**Allocation:** 100% Community
 
 #### Future Epoch Distributions
 
