@@ -169,7 +169,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1913773738136682645)\
 **Allocation:** 100% Community\
 \
-**Epoch 14 Distribution**\
+**Epoch 15 Distribution**\
 \
 **Period:** 14th May\
 **Proof of Distribution:**\
