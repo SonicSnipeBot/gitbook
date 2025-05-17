@@ -14,7 +14,8 @@
 * [January 2025](sonic-snipe-updates.md#january-2025)
 * [February 2025](sonic-snipe-updates.md#february-2025)
 * [March 2025](sonic-snipe-updates.md#march-2025)
-* A[pril 2025](sonic-snipe-updates.md#april-2025)
+* [April 2025](sonic-snipe-updates.md#april-2025)
+* [May 2025](sonic-snipe-updates.md#may-2025)
 
 </details>
 
@@ -37,11 +38,61 @@
 
 </details>
 
+### May 2025
+
+#### Sat May 17 2025
+
+* **12:45 PM** \[v1.1823]: Final Cleanup For Production Arena Trade Bonding Update
+* **12:40 PM** \[v1.1822]: Arena Trade Bonding Fully Supported.
+* **12:29 PM** \[v1.1821]: Buy and Sell Working on Arena Trade, other to trading options will be added next.
+* **12:00 PM** \[v1.1820]: First Arena Trade Bond Works
+* **10:55 AM** \[v1.1819]: Cracked the formula of Arena Trade.
+
+#### Fri May 16 2025
+
+* **10:39 AM** \[v1.1818]: Updated Sui & Base Node
+
+#### Thu May 15 2025
+
+* **05:36 PM** \[v1.1817]: Added Trade Arena Support on Avax
+* **11:36 AM** \[v1.1816]: Administrative Update
+
+#### Tue May 13 2025
+
+* **11:19 AM** \[v1.1815]: Properly Routing Pumpfun through the contract
+* **10:52 AM** \[v1.1814]: pumpfun now routed through juptier swap, care should be taken when buying.
+
 ### April 2025
+
+#### Sun Apr 27 2025
+
+* **11:29 AM** \[v1.1813]: Fixed Presale Issue, with minimum buy.
+
+#### Sat Apr 26 2025
+
+* **11:38 AM** \[v1.1812]: Fixed Bug where user wasn't able to generate wallet on a new network such as EVM, or other non EVM networks.
+* **11:14 AM** \[v1.1811]: Whitelist Presale Configured & Moved
+* **09:01 AM** \[v1.1810]: Pre For Multiple Sui Presale.
+
+#### Tue Apr 22 2025
+
+* **06:13 PM** \[v1.1809]: Updated Custom RPC OR Anti Mev Fallback to public RPC
+* **06:01 PM** \[v1.1808]: Fixed Rpc Issue
+* **05:37 PM** \[v1.1807]: Cleaned RPC settings, may need to reset network with /reset, you can use a custom RPC which you can set on your own Anti Mev, Supported for all EVM networks
+
+#### Sun Apr 20 2025
+
+* **12:56 PM** \[v1.1806]: Updated Anti Mev, only Ethereum & Solana Supported but you can use a custom Anti Mev Link Yourself
+* **12:26 PM** \[v1.1805]: Trialing Different Configuration Base Sui
+* **11:12 AM** \[v1.1804]: Updated Admin Module Airdrop
+
+#### Wed Apr 16 2025
+
+* **06:39 PM** \[v1.1803]: Admin Update.
 
 #### Mon Apr 14 2025
 
-* **11:53 AM** \[v1.1802]: Fixed Abstreact Transfer Issue
+* **11:53 AM** \[v1.1802]: Fixed Abstract Transfer Issue
 
 #### Sat Apr 12 2025
 
