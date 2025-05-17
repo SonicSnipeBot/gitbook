@@ -43,13 +43,13 @@
 <summary>2023</summary>
 
 * [May 2023](sonic-snipe-updates.md#may-2023)
-* June 2023
-* July 2023
-* August 2023
-* September 2023
-* October 2023
-* November 2023
-* December 2023
+* [June 2023](sonic-snipe-updates.md#june-2023)
+* [July 2023](sonic-snipe-updates.md#july-2023)
+* [August 2023](sonic-snipe-updates.md#august-2023)
+* [September 2023](sonic-snipe-updates.md#september-2023)
+* [October 2023](sonic-snipe-updates.md#october-2023)
+* [November 2023](sonic-snipe-updates.md#november-2023)
+* [December 2023](sonic-snipe-updates.md#december-2023)
 
 </details>
 
