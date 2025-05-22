@@ -55,6 +55,20 @@
 
 ### May 2025
 
+#### Thu May 22 2025
+
+* **11:41 AM** \[v1.1828]: Fixed Bug on Uniswap 4 For Monitor Gains, Removed Beta Disclaimer.
+* **10:37 AM** \[v1.1827]: Uniswap V4 Added to Optimism Network
+* **10:34 AM** \[v1.1826]: Uniswap V4 Supported added to Ethereum, Avalanche, Polygon, Base, BSC, Arbitrum, Unichain
+
+#### Wed May 21 2025
+
+* **10:06 AM** \[v1.1825]: Fixed Wallet Transfer to Transfer on Public Provider
+
+#### Tue May 20 2025
+
+* **07:05 PM** \[v1.1824]: Fixed Claim bug on Sonic Staking Dashboard, Check Stake, Make sure your on Sui Network /network to change network.
+
 #### Sat May 17 2025
 
 * **12:45 PM** \[v1.1823]: Final Cleanup For Production Arena Trade Bonding Update
