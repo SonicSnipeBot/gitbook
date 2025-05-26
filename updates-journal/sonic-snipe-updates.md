@@ -55,6 +55,19 @@
 
 ### May 2025
 
+#### Sun May 25 2025
+
+* **06:01 PM** \[v1.1836]: Buying and selling working with hyperLaunch.:
+* **05:52 PM** \[v1.1835]: Successful Buy and sell for HyperLaunch
+* **04:31 PM** \[v1.1834]: Disabling HyperLaunch until we get clarity from team.
+* **11:46 AM** \[v1.1833]: Preparation to add HyperLaunch, Added support to KittenSwap.
+
+#### Fri May 23 2025
+
+* **01:21 PM** \[v1.1832]: Added to Allowed Dexscreener contract pair on HyperEvm
+* **01:06 PM** \[v1.1831]: Enabled HyperEVM to do swaps for HyperSwap Dex Alone/
+* **12:38 PM** \[v1.1830]: Added Support for Hyperswap Dex on HypterEvm, KittenSwap is badly documented so still deciding whether to make the network live on only HyperSwap with HyperEvm.
+
 #### Thu May 22 2025
 
 * **11:41 AM** \[v1.1828]: Fixed Bug on Uniswap 4 For Monitor Gains, Removed Beta Disclaimer.
