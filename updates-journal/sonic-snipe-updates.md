@@ -55,6 +55,15 @@
 
 ### May 2025
 
+#### Thu May 29 2025
+
+* **10:14 AM** \[v1.1839]: Faster HyperEvm Load, Quicker Response for Liquid Launch.
+
+#### Tue May 27 2025
+
+* **01:29 PM** \[v1.1838]: Added SafeBot Check for LiquidLaunch. Extended Timeout Time.
+* **01:05 PM** \[v1.1837]: Added dev contract link support to liquidLaunch
+
 #### Sun May 25 2025
 
 * **06:01 PM** \[v1.1836]: Buying and selling working with hyperLaunch.:
