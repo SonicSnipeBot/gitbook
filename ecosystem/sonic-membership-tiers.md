@@ -14,7 +14,7 @@
 
 #### **Membership Benefits Overview:**
 
-<table><thead><tr><th width="130.6484375">Feature</th><th>Standard</th><th>Premium</th><th>Platinum</th><th>Gold</th><th>Vip</th></tr></thead><tbody><tr><td><strong>Wallet Management</strong></td><td> 4 wallets</td><td>5 wallets</td><td>7 wallet</td><td>8 wallets</td><td>10 wallets</td></tr><tr><td><strong>Limit Trades</strong></td><td>3 active trades (24h)</td><td>4 active trades (48h)</td><td>5 active trades (48h)</td><td>7 active trades (72h)</td><td>10 active trades (72h)</td></tr><tr><td><strong>Snipe New Launch's</strong></td><td>1 snipe at a time</td><td>2 snipe at a time</td><td>3 snipe at a time</td><td>4 snipe at a time</td><td>5 snipe at a time</td></tr><tr><td><strong>Trading Fees</strong></td><td>1%</td><td>0.5%</td><td>0.4%</td><td>0.2%</td><td>0.1%</td></tr></tbody></table>
+<table><thead><tr><th width="130.6484375">Feature</th><th>Standard</th><th>Premium</th><th>Platinum</th><th>Gold</th><th>Vip</th></tr></thead><tbody><tr><td><strong>Wallet Management</strong></td><td> 4 wallets</td><td>5 wallets</td><td>7 wallet</td><td>8 wallets</td><td>10 wallets</td></tr><tr><td><strong>Limit Trades</strong></td><td>3 active trades (48h)</td><td>4 active trades (48h)</td><td>5 active trades (48h)</td><td>7 active trades (72h)</td><td>10 active trades (72h)</td></tr><tr><td><strong>Snipe New Launch's</strong></td><td>1 snipe at a time</td><td>2 snipe at a time</td><td>3 snipe at a time</td><td>4 snipe at a time</td><td>5 snipe at a time</td></tr><tr><td><strong>Trading Fees</strong></td><td>1%</td><td>0.5%</td><td>0.4%</td><td>0.2%</td><td>0.1%</td></tr></tbody></table>
 
 ***
 
