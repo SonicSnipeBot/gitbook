@@ -16,6 +16,7 @@
 * [March 2025](sonic-snipe-updates.md#march-2025)
 * [April 2025](sonic-snipe-updates.md#april-2025)
 * [May 2025](sonic-snipe-updates.md#may-2025)
+* [June 2025](sonic-snipe-updates.md#june-2025)
 
 </details>
 
@@ -52,6 +53,29 @@
 * [December 2023](sonic-snipe-updates.md#december-2023)
 
 </details>
+
+### June 2025
+
+#### Fri Jun 06 2025
+
+* **11:57 AM** \[v1.1848]: Created more room to show Amount to Buy and Sell on Mobile, Code Cleanup with different API resource to Get Contract Information.
+
+#### Thu Jun 05 2025
+
+* **08:38 PM** \[v1.1847]: Cleaner code for Check Safe
+* **07:08 PM** \[v1.1846]: Final Touch
+* **06:53 PM** \[v1.1845]: Added Charts for Taraxa
+* **02:15 PM** \[v1.1844]: Added Full Support for Tarax Network, Both Dex's Suppported, TaraSwap and FomoSwap
+* **10:33 AM** \[v1.1843]: Added Tara Support for wallet Transfers, will look to add further support on contracts
+* **09:37 AM** \[v1.1842]: Changed Pulsechain Default Node Provider
+
+#### Wed Jun 04 2025
+
+* **10:05 AM** \[v1.1841]: Turbos Now Routed Through Aggregators, 7k, Af, Hop
+
+#### Mon Jun 02 2025
+
+* **09:34 AM** \[v1.1840]: Temporary set limit trade to 48 hours till Sonic Trading is Restored.
 
 ### May 2025
 
