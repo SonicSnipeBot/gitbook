@@ -56,6 +56,10 @@
 
 ### June 2025
 
+#### Sun Jun 08 2025
+
+* **11:35 AM** \[v1.1849]: Changed Network to Search Order Depending on Popularity, if your already on your chosen network, there is no need for search so its quick, small tweaking.
+
 #### Fri Jun 06 2025
 
 * **11:57 AM** \[v1.1848]: Created more room to show Amount to Buy and Sell on Mobile, Code Cleanup with different API resource to Get Contract Information.
