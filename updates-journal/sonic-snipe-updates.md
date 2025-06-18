@@ -56,6 +56,22 @@
 
 ### June 2025
 
+* **12:32 PM** \[v1.1860]: Updated Safebot, Updated Dex tools Paste Link
+* **11:44 AM** \[v1.1859]: Removing Hop Fun, It Doesn't look like its operable anymore.
+
+#### Sun Jun 15 2025
+
+* **11:19 AM** \[v1.1858]: Package update.
+
+#### Sat Jun 14 2025
+
+* **11:06 AM** \[v1.1857]: Updated membership plans due to price change, adjusted special liquidity.
+
+#### Tue Jun 10 2025
+
+* **06:10 PM** \[v1.1856]: Added Arena Trade Check as API seems slow not to damage network.
+* **05:48 PM** \[v1.1855]: Admin Debugging
+
 #### Sun Jun 08 2025
 
 * **11:35 AM** \[v1.1849]: Changed Network to Search Order Depending on Popularity, if your already on your chosen network, there is no need for search so its quick, small tweaking.
