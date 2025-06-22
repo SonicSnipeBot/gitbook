@@ -173,10 +173,20 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 \
 **Period:** 14th May\
 **Proof of Distribution:**\
-[tinyurl.com/Sonic-Airdrop-15-1…](https://t.co/3N2Ct1t9FX)\
+(View Announcement)\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1922485236103053773)\
+**Allocation:** 100% Community
+
+**Epoch 16 Distribution**\
+\
+**Period:** 22nd June \
+**Proof of Distribution:**\
+(View Announcement)\
+**Announcement:** [View Twitter](#user-content-fn-1)[^1] \
 **Allocation:** 100% Community
 
 #### Future Epoch Distributions
 
 * &#x20;Details To Be Announced
+
+[^1]: 
