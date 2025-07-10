@@ -17,6 +17,7 @@
 * [April 2025](sonic-snipe-updates.md#april-2025)
 * [May 2025](sonic-snipe-updates.md#may-2025)
 * [June 2025](sonic-snipe-updates.md#june-2025)
+* [July 2025](sonic-snipe-updates.md#july-2025)
 
 </details>
 
@@ -54,10 +55,25 @@
 
 </details>
 
+### July 2025
+
+#### Thu Jul 10 2025
+
+* **11:15 AM** \[v1.1865]: Temporary Disabling Injective, Packages are too problematic and no interested shown on the network.
+* **11:02 AM** \[v1.1864]: Fixed Pumpfun.
+* **10:29 AM** \[v1.1863]: Matching Local with Remote.
+* **09:46 AM** \[v1.1862]: Switching to 7K as AF having issues
+
 ### June 2025
 
+#### Sat Jun 28 2025
+
+* **04:49 PM** \[v1.1861]: Attempted to add Sei network, more work needed, maybe in the future.
+
+#### Wed Jun 18 2025
+
 * **12:32 PM** \[v1.1860]: Updated Safebot, Updated Dex tools Paste Link
-* **11:44 AM** \[v1.1859]: Removing Hop Fun, It Doesn't look like its operable anymore.
+* **11:44 AM** \[v1.1859]: Removing Hop Fun, It Doesnt look like its operable anymore.
 
 #### Sun Jun 15 2025
 
