@@ -185,6 +185,8 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Announcement:** [View Twitter](#user-content-fn-1)[^1] \
 **Allocation:** 100% Community
 
+**Epoch 17 Distribution**
+
 **Period:** 20th July \
 **Proof of Distribution:**\
 (View Announcement)\
