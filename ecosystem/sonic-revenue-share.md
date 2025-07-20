@@ -185,6 +185,12 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 **Announcement:** [View Twitter](#user-content-fn-1)[^1] \
 **Allocation:** 100% Community
 
+**Period:** 20th July \
+**Proof of Distribution:**\
+(View Announcement)\
+**Announcement:**[ ](https://x.com/SonicSnipeBot/status/1946756230183285013)[View Twitter](#user-content-fn-1)[^1]\
+**Allocation:** 100% Community
+
 #### Future Epoch Distributions
 
 * &#x20;Details To Be Announced
