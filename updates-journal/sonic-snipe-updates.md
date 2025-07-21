@@ -57,6 +57,10 @@
 
 ### July 2025
 
+#### Mon Jul 21 2025
+
+* **10:01 AM** \[v1.1867]: Turned on Anti Mev for Bsc & Gas Tipping.
+
 #### Thu Jul 10 2025
 
 * **11:15 AM** \[v1.1865]: Temporary Disabling Injective, Packages are too problematic and no interested shown on the network.
