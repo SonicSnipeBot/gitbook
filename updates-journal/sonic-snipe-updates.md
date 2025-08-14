@@ -18,6 +18,7 @@
 * [May 2025](sonic-snipe-updates.md#may-2025)
 * [June 2025](sonic-snipe-updates.md#june-2025)
 * [July 2025](sonic-snipe-updates.md#july-2025)
+* [August 2025](sonic-snipe-updates.md#august-2025)
 
 </details>
 
@@ -56,6 +57,32 @@
 </details>
 
 ### July 2025
+
+### August 2025
+
+#### Fri Aug 08 2025
+
+* **07:11 PM** \[v1.1877]: Attempting to add Zora Support on V4
+* **06:41 PM** \[v1.1876]: Further Uniswap Updates, Config
+* **06:09 PM** \[v1.1875]: Progress updates with uni v4
+
+### July 2025
+
+#### Tue Jul 29 2025
+
+* **12:46 PM** \[v1.1874]: Quicker Arena Trade Load
+* **12:32 PM** \[v1.1873]: Updated Caching for Arena Trade.
+* **12:29 PM** \[v1.1872]: Arena Trade enabled and working
+* **11:46 AM** \[v1.1871]: Enabling Trade Arena, good enough.
+
+#### Mon Jul 28 2025
+
+* **02:12 PM** \[v1.1870]: Arena Trade continuing making it hard to trade, prepped contract as much as possible.
+* **11:14 AM** \[v1.1869]: Arena Trade Back Online
+
+#### Sun Jul 27 2025
+
+* **09:26 AM** \[v1.1868]: Completly Disabled Aftermath , too buggy.
 
 #### Mon Jul 21 2025
 
