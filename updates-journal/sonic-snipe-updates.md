@@ -60,6 +60,18 @@
 
 ### August 2025
 
+#### Wed Aug 20 2025
+
+* **10:10 AM** \[v1.1883]: Further V4 Testing
+* **09:58 AM** \[v1.1882]: Fixed Special Currency amount to buy Aka Virtuals / Zora
+
+#### Tue Aug 19 2025
+
+* **12:03 PM** \[v1.1881]: Fixed Small Bug with Wrapped Token
+* **11:58 AM** \[v1.1880]: More Improvements and Progress with V4, Attempting to add unusual Swaps such as Zora Etc.
+* **11:06 AM** \[v1.1879]: Updates and Improvements for V4
+* **10:38 AM** \[v1.1878]: Fixed Bug with Currency amount on v4 not showing
+
 #### Fri Aug 08 2025
 
 * **07:11 PM** \[v1.1877]: Attempting to add Zora Support on V4
