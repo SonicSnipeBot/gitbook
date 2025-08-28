@@ -60,8 +60,48 @@
 
 ### August 2025
 
+#### Thu Aug 28 2025
+
+* **09:58 AM** \[v1.1902]: added support for Meteora Dyn 1 & 2, Routed Through JupiterSwap
+
+#### Tue Aug 26 2025
+
+* **12:24 PM** \[v1.1901]: Added Distribution and recall for Volume Bot Related Code
+* **10:39 AM** \[v1.1900]: Wallet Transfer Update to Code, make Room for Volume Bot
+
+#### Mon Aug 25 2025
+
+* **02:20 PM** \[v1.1899]: Changed Algorithm of Volume Bot , Still in House.
+* **01:35 PM** \[v1.1898]: Checkpoint Save.
+
+#### Sun Aug 24 2025
+
+* **10:09 PM** \[v1.1897]: Adjust wallet Balance Volume Bot
+* **08:33 PM** \[v1.1896]: Optimised volume bot.
+
+#### Sat Aug 23 2025
+
+* **03:58 PM** \[v1.1895]: Volume Bot Improvements, Cancellation added etc
+* **02:12 PM** \[v1.1894]: Added bluefin
+* **01:25 PM** \[v1.1893]: Added Volume Bot Logic to Start/ Stop Still in House.
+
+#### Fri Aug 22 2025
+
+* **10:30 PM** \[v1.1892]: Updates Protocols And Audit
+* **10:21 PM** \[v1.1891]: Improvements on the volume bot, in house for now.
+* **01:28 PM** \[v1.1890]: Further work with Volume Bot
+* **12:24 AM** \[v1.1889]: Volume bot Progress
+
+#### Thu Aug 21 2025
+
+* **06:40 PM** \[v1.1888]: Testing Potential Volume Bot in the Future.
+
 #### Wed Aug 20 2025
 
+* **11:34 AM** \[v1.1887]: Fixed Special Token on Settings
+* **11:21 AM** \[v1.1886]: Bug Fix on Special Token.
+* **11:18 AM** \[v1.1885]: Bug fix for buy currency when changing to non special token
+* **11:07 AM** \[v1.1884]: Further Improvements on Buy Currency amounts etc
 * **10:10 AM** \[v1.1883]: Further V4 Testing
 * **09:58 AM** \[v1.1882]: Fixed Special Currency amount to buy Aka Virtuals / Zora
 
