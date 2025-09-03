@@ -19,6 +19,7 @@
 * [June 2025](sonic-snipe-updates.md#june-2025)
 * [July 2025](sonic-snipe-updates.md#july-2025)
 * [August 2025](sonic-snipe-updates.md#august-2025)
+* [September 2025](sonic-snipe-updates.md#september-2025)
 
 </details>
 
@@ -56,9 +57,21 @@
 
 </details>
 
-### July 2025
+### September 2025
+
+#### Wed Sep 03 2025
+
+* **11:40 AM** \[v1.1905]: Fixed alternate symbol bug, aka virtuals etc
+
+#### Tue Sep 02 2025
+
+* **08:24 PM** \[v1.1904]: Changed to Rpc node on ethereum.
 
 ### August 2025
+
+#### Sun Aug 31 2025
+
+* **11:32 AM** \[v1.1903]: Turning on fees for the Ton network as Sonic is a fully established product. If you want free use, go run a script from github.
 
 #### Thu Aug 28 2025
 
