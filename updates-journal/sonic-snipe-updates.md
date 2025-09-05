@@ -59,9 +59,13 @@
 
 ### September 2025
 
+#### Thu Sep 04 2025
+
+* **11:36 AM** \[v1.1906]: Updating Membership Tiers due to Price Fluctuation.
+
 #### Wed Sep 03 2025
 
-* **11:40 AM** \[v1.1905]: Fixed alternate symbol bug, aka virtuals etc
+* **11:40 AM** \[v1.1905]: Fixed alternate symbol bug, aka victuals etc
 
 #### Tue Sep 02 2025
 
