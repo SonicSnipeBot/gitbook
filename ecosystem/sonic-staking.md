@@ -66,7 +66,7 @@ For Example: I stake 2k Sonic then want to stake 9k more, this will not work as 
 \
 **How to Stake in Bot?**\
 1\. Navigate to https://t.me/sonicsnipebot\
-2\. Follow [Broken link](broken-reference "mention")to setup your account\
+2\. Follow [Broken link](broken-reference "mention") to setup your account\
 3\.  Paste the $Sonic Contract in bot **(Skip 3 & 4 if you imported your wallet key)**\
 4\.  Buy some $Sonic\
 5\. Type /stake\
