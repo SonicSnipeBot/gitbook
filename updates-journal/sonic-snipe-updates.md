@@ -59,6 +59,35 @@
 
 ### September 2025
 
+#### Wed Sep 17 2025
+
+* **11:47 AM** \[v1.1917]: Staking live in Bot for the public.
+
+#### Tue Sep 16 2025
+
+* **02:16 PM** \[v1.1916]: Added Marketcap pump fun
+* **12:18 PM** \[v1.1915]: All popular dex's on Solana Added'
+* **12:05 PM** \[v1.1914]: modified pumpfun code to load faster.
+* **11:43 AM** \[v1.1913]: Updated Pumpfun Api
+* **11:24 AM** \[v1.1912]: Routing Pumpfun through JupiterSwap temporary, as ABI upgraded.
+
+#### Sun Sep 14 2025
+
+* **10:36 PM** \[v1.1911]: 7k Api Update
+
+#### Thu Sep 11 2025
+
+* **11:46 AM** \[v1.1910]: Optimize Volume Bot and Some fixes in Wallet Transfer text
+
+#### Mon Sep 08 2025
+
+* **11:36 AM** \[v1.1909]: Testing to add story but the main router on story is just written poorly so reverting adding until clarity from the copy pasta team.
+* **09:51 AM** \[v1.1908]: Removed Quicknode & Alchemy from Etheruem nodes as they are Rubbish.
+
+#### Sat Sep 06 2025
+
+* **10:48 AM** \[v1.1907]: Added support for Inkswap
+
 #### Thu Sep 04 2025
 
 * **11:36 AM** \[v1.1906]: Updating Membership Tiers due to Price Fluctuation.
