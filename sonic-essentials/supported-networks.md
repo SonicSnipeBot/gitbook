@@ -19,7 +19,7 @@
 
 **Injective \***
 
-Discontinued due to outdated packages & updates from the team.  Will re-add when evidence of improvements and support.
+Discontinued due to outdated packages & updates from founders.  Will re-add when evidence of improvements and support.
 
 #### Testnet
 
