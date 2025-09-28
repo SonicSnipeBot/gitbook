@@ -59,6 +59,27 @@
 
 ### September 2025
 
+#### Sun Sep 28 2025
+
+* **09:04 PM** \[v1.1926]: Oku Support added on Plasma
+* **02:09 PM** \[v1.1925]: Bonding Curve for DYORSwap now supported.
+* **11:51 AM** \[v1.1924]: Close to Adding DyorSwap Pump, disabling for now.
+* **08:08 AM** \[v1.1923]: Dyor Router name Changed .
+
+#### Sat Sep 27 2025
+
+* **01:32 PM** \[v1.1922]: Removing one of the factories as its not an official DYORSWAP contract and not open source
+* **01:02 PM** \[v1.1921]: Added other router for dyorswap
+* **12:30 PM** \[v1.1920]: Successfully added Plasma Network.
+
+#### Fri Sep 26 2025
+
+* **11:31 AM** \[v1.1919]: Fixed Four Meme Bug, BSC
+
+#### Tue Sep 23 2025
+
+* **11:48 PM** \[v1.1918]: Successfully added Storyhunt Chain
+
 #### Wed Sep 17 2025
 
 * **11:47 AM** \[v1.1917]: Staking live in Bot for the public.
