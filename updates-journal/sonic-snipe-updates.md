@@ -20,6 +20,7 @@
 * [July 2025](sonic-snipe-updates.md#july-2025)
 * [August 2025](sonic-snipe-updates.md#august-2025)
 * [September 2025](sonic-snipe-updates.md#september-2025)
+* [October 2025](sonic-snipe-updates.md#october-2025)
 
 </details>
 
@@ -57,7 +58,18 @@
 
 </details>
 
+### October 2025
+
+#### Thu Oct 02 2025
+
+* **05:05 PM** \[v1.1929]: Jupiterswap protocol updated & working
+* **11:51 AM** \[v1.1928]: Removed unused package, volume bot update
+
 ### September 2025
+
+#### Mon Sep 29 2025
+
+* **09:20 PM** \[v1.1927]: Admin commands updated included Volume Bot updated
 
 #### Sun Sep 28 2025
 
