@@ -29,7 +29,7 @@ We currently offer a **30% APR** for a limited time staking $Sonic.&#x20;
 **Stake Button:**  Stake your Sonic "Amount", found in the box provided.
 
 **Minimum Staking:** This is the minimum amount you can stake, currently set to 1,000 $Sonic\
-**Maximum Staking:** This is the maximum $Sonic you can stake, currently set to 50,000 $Sonic\
+**Maximum Staking:** This is the maximum $Sonic you can stake, currently set to 100,000 $Sonic\
 \
 **25%, 50%, 75%, Max**: This will set accordingly to your total Sonic amount in your connect wallet. \
 **Max:** If you have more than the Max amount, it will choose that amount as this is the maximum you will stake, note, you cannot go over the max limit.\
