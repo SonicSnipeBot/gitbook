@@ -16,8 +16,8 @@ We currently offer a **30% APR** for a limited time staking $Sonic.&#x20;
 \
 **Bottom Panels  (Left to Right)**\
 **Current APR:** The total amount you will receive on a yearly bases by Staking\
-**Total Amount Staked:** The total amount of $Sonic being Staked\
-**Current Token Price:** The current price of $Sonic per token in usd.\
+**Total Amount Staked:** The total amount of $Sonic being staked\
+**Current Token Price:** The current price of $Sonic per token in USD.\
 \
 **Middle Panel (This Section is Made up of 3 tabs)**\
 **1st Tab (Reward History Graph) :** Displays a graph of your Sonic Tokens Claimed\
@@ -29,7 +29,7 @@ We currently offer a **30% APR** for a limited time staking $Sonic.&#x20;
 **Stake Button:**  Stake your Sonic "Amount", found in the box provided.
 
 **Minimum Staking:** This is the minimum amount you can stake, currently set to 1,000 $Sonic\
-**Maximum Staking:** This is the maximum $Sonic you can stake, currently set to 100,000 $Sonic\
+**Maximum Staking:** This is the maximum you can stake, currently set to 100,000 $Sonic\
 \
 **25%, 50%, 75%, Max**: This will set accordingly to your total Sonic amount in your connect wallet. \
 **Max:** If you have more than the Max amount, it will choose that amount as this is the maximum you will stake, note, you cannot go over the max limit.\
