@@ -139,7 +139,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 11 Distribution**
 
-**Period:** 4th January\
+**Period:** 4th January 2025\
 **Proof of Distribution**: \
 [https://tinyurl.com/Sonic-Airdrop-11](https://tinyurl.com/Sonic-Airdrop-11)\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1875546931713470580)\
@@ -147,7 +147,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 12 Distribution**
 
-**Period:** 25th January\
+**Period:** 25th January 2025\
 **Proof of Distribution**: \
 [https://tinyurl.com/Sonic-Airdrop-1](https://tinyurl.com/Sonic-Airdrop-11)2\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1881355404116201673)\
@@ -155,7 +155,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 \
 **Epoch 13 Distribution**\
 \
-**Period:** 20th March\
+**Period:** 20th March 2025\
 **Proof of Distribution:**\
 [https://tinyurl.com/Sonic-Buyback-and-Burn-1](https://tinyurl.com/Sonic-Buyback-and-Burn-1)\
 **Announcement**:[ View Twitter](https://x.com/SonicSnipeBot/status/1902658387483189692)\
@@ -163,7 +163,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 \
 **Epoch 14 Distribution**\
 \
-**Period:** 20th April\
+**Period:** 20th April 2025\
 **Proof of Distribution:**\
 [https://tinyurl.com/Sonic-Airdrop-14](https://tinyurl.com/Sonic-Airdrop-14)\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1913773738136682645)\
@@ -171,7 +171,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 \
 **Epoch 15 Distribution**\
 \
-**Period:** 14th May\
+**Period:** 14th May 2025\
 **Proof of Distribution:**\
 (View Announcement)\
 **Announcement**: [View Twitter](https://x.com/SonicSnipeBot/status/1922485236103053773)\
@@ -179,7 +179,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 16 Distribution**\
 \
-**Period:** 22nd June \
+**Period:** 22nd June  2025\
 **Proof of Distribution:**\
 (View Announcement)\
 **Announcement:** [View Twitter](#user-content-fn-1)[^1] \
@@ -187,7 +187,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 17 Distribution**
 
-**Period:** 20th July \
+**Period:** 20th July  2025\
 **Proof of Distribution:**\
 (View Announcement)\
 **Announcement:**[ ](https://x.com/SonicSnipeBot/status/1946756230183285013)[View Twitter](#user-content-fn-1)[^1]\
@@ -195,7 +195,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 18 Distribution**
 
-**Period:** 7th September\
+**Period:** 7th September 2025\
 **Proof of Distribution:**\
 (View Announcement)\
 **Announcement:**[ ](https://x.com/SonicSnipeBot/status/1946756230183285013)[View Twitter](#user-content-fn-1)[^1]\
@@ -203,7 +203,7 @@ Take part in **Sonic Revenue Share** to earn, contribute, and build a stronger, 
 
 **Epoch 19 Distribution**
 
-**Period:** 7th October\
+**Period:** 7th October 2025\
 **Proof of Distribution:**\
 (View Announcement)\
 **Announcement:**[ ](https://x.com/SonicSnipeBot/status/1975361654910316574)[View Twitter](#user-content-fn-1)[^1]\
