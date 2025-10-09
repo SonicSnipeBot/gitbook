@@ -60,6 +60,18 @@
 
 ### October 2025
 
+#### Thu Oct 09 2025
+
+* **03:26 PM** \[v1.1932]: Setting Anti Mev on BSC Auto on
+
+#### Tue Oct 07 2025
+
+* **10:33 AM** \[v1.1931]: Updated API for Sui, prep for airdrop
+
+#### Mon Oct 06 2025
+
+* **01:39 PM** \[v1.1930]: Fixed admin transfer Bug
+
 #### Thu Oct 02 2025
 
 * **05:05 PM** \[v1.1929]: Jupiterswap protocol updated & working
