@@ -60,6 +60,24 @@
 
 ### October 2025
 
+#### Sun Oct 12 2025
+
+* **10:58 AM** \[v1.1941]: Updated API for honeypot check
+
+#### Sat Oct 11 2025
+
+* **02:55 PM** \[v1.1940]: Trialing Four Meme Api
+* **12:39 PM** \[v1.1939]: Added Web Preview Enabled / Disabled for Ton and Tron.
+
+#### Fri Oct 10 2025
+
+* **10:55 PM** \[v1.1938]: Fix up of Token Price
+* **10:46 PM** \[v1.1937]: Added Price and Market cap for all EVM Tokens Where Supported
+* **09:41 PM** \[v1.1936]: Distribute and Gather Supported Added on EVM, Not for public yet
+* **09:19 PM** \[v1.1935]: Prep for Volume Bot on EVM
+* **08:40 PM** \[v1.1934]: Show Transaction on Web Preview Added to Misc Settings and off by default (Much Cleaner Look)
+* **02:04 PM** \[v1.1933]: Misc and Tx Settings Cleanier and Bug fixes, Approve Max enabled on Default and Fixed.
+
 #### Thu Oct 09 2025
 
 * **03:26 PM** \[v1.1932]: Setting Anti Mev on BSC Auto on
