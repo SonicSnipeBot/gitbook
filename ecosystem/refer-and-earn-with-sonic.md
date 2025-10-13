@@ -94,7 +94,6 @@ Here’s an example of what your commission dashboard looks like:
 
 > **📊 Your Commission Overview**\
 > 🚀 Promotional Offer: Boosted commissions till year-end 🎉\
-> 💸 Commission Rate: 30%\
 > ⏰ Pending Commission: $4.41\
 > 🤝 Paid Commission: $0.00\
 > 🔑 Referred by: @BunnyDeveloper
