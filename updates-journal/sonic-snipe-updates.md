@@ -21,6 +21,7 @@
 * [August 2025](sonic-snipe-updates.md#august-2025)
 * [September 2025](sonic-snipe-updates.md#september-2025)
 * [October 2025](sonic-snipe-updates.md#october-2025)
+* [November 2025](sonic-snipe-updates.md#november-2025)
 
 </details>
 
@@ -58,7 +59,63 @@
 
 </details>
 
+
+
+### November 2025
+
+#### Sat Nov 08 2025
+
+* **01:49 PM** \[v1.1959]: Admin Updates
+
+#### Fri Nov 07 2025
+
+* **11:18 AM** \[v1.1958]: Updated Arb RPC
+
+#### Thu Nov 06 2025
+
+* **11:10 PM** \[v1.1957]: Fixed Wallet Bug added some feature (forgot)
+
+#### Sun Nov 02 2025
+
+* **08:09 PM** \[v1.1956]: Removing FTM as chain disabled for S or Sonic Chain
+
+#### Sat Nov 01 2025
+
+* **08:01 PM** \[v1.1955]: Updated Rpc node on Base.
+* **07:52 PM** \[v1.1954]: Updated RPC Networks, Quicknode is now commericialised and are no longer friendly RPC Provider.
+* **07:25 PM** \[v1.1953]: Updated Default BSC Rpc
+
 ### October 2025
+
+#### Sat Oct 25 2025
+
+* **04:08 PM** \[v1.1952]: Continued testing and trialiang with Zora Protocal / Uni V4 Different Pairs
+* **03:17 PM** \[v1.1951]: Work on Zora Protocal Base.
+* **01:34 PM** \[v1.1950]: Added USDC on network Base as a special token supported i.e virturals etc
+
+#### Fri Oct 24 2025
+
+* **01:48 PM** \[v1.1949]: Admin Update.
+
+#### Mon Oct 20 2025
+
+* **05:20 PM** \[v1.1948]: General Bug fixes for wallet balances
+* **03:40 PM** \[v1.1947]: Tweaked Wallet Balance
+
+#### Sun Oct 19 2025
+
+* **05:41 PM** \[v1.1946]: Updated Membership prices to remain competitive
+* **05:14 PM** \[v1.1945]: Administritive update
+* **04:33 PM** \[v1.1944]: Admin Update
+* **01:48 PM** \[v1.1943]: Admin configuration / staking check in bot, /check
+
+#### Mon Oct 13 2025
+
+* **11:08 AM** \[v1.1942]: Trialling 30% Referral Comission Rate
+
+#### Sun Oct 12 2025
+
+* **10:58 AM** \[v1.1941]: Updated API for honeypot check
 
 #### Sun Oct 12 2025
 
