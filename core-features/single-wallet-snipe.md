@@ -175,7 +175,7 @@ What this means is /snipe will not Display the Selected Wallet
 ### Quick Links
 
 * [Home](../)
-* [Getting Started](broken-reference)
+* [Getting Started](/broken/pages/WXbtUkA1oAkQRdqfRC00)
 * [Single Wallet Snipe](single-wallet-snipe.md)
 * [Multi Wallet Snipe](multi-wallet-snipe.md)
 * [Snipe New Launches](snipe-new-launches.md)

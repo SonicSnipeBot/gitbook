@@ -76,13 +76,11 @@ Detailed Guide for Bridging
 ### Steps to Bridge&#x20;
 
 1. [**Navigate to Wallet Menu**](wallet-management.md#you-can-navigate-to-the-wallets-menu-by-either)**:**&#x20;
-2.  **Select the Wallet**: Confirm the wallet from which you want to bridge to (✅)\
-
+2.  **Select the Wallet**: Confirm the wallet from which you want to bridge to (✅)<br>
 
     <figure><img src="../.gitbook/assets/walletsMenu (1).png" alt="" width="375"><figcaption></figcaption></figure>
 3. **Initiate Bridge**: Click the 'Bridge' option
-4.  **Select Network To Bridge:** Choose a network to Bridge to\
-
+4.  **Select Network To Bridge:** Choose a network to Bridge to<br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2024-07-14 at 3.30.12 PM.png" alt="" width="352"><figcaption></figcaption></figure>
 5. **Startup Password**: Enter your startup password if set. Skip this step if no password was configured.
@@ -94,8 +92,7 @@ Detailed Guide for Bridging
          not supported, simply input /autoswitch to turn it off temporary, \
          after purchase, turn it back on.
       2. Once done, select the balance amount you want to Bridge, 1 - 100%
-      3.  Skip **Step 7**, Go to **Step 8**\
-
+      3.  Skip **Step 7**, Go to **Step 8**<br>
 
           <figure><img src="../.gitbook/assets/Screenshot 2024-07-14 at 3.38.53 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 7.  **Enter Native Currency Amount To Bridge:** \
@@ -109,12 +106,10 @@ Detailed Guide for Bridging
 
     <figure><img src="../.gitbook/assets/amountToBridge (2).png" alt="" width="375"><figcaption></figcaption></figure>
 8.  **Enter wallet to Bridge** : Enter a **valid** wallet address or click and paste an address already available in Bot, **recommended.**  For this instance we are bridging to Solana, so a **valid** Solana wallet address **that you own** is necessary.  \
-    (**Note:** Only used when bridging from EVM to Solana Etc, otherwise go to **Step 7**)\
-
+    (**Note:** Only used when bridging from EVM to Solana Etc, otherwise go to **Step 7**)<br>
 
     <figure><img src="../.gitbook/assets/walletToBridge.png" alt="" width="375"><figcaption></figcaption></figure>
-9.  **Confirm Transfer**: Details of your bridge will be shown to you, make sure your to address is correct before proceeding, check the contract that it is being bridged to as well, when ready, click on confirm and paste it and press enter.\
-
+9.  **Confirm Transfer**: Details of your bridge will be shown to you, make sure your to address is correct before proceeding, check the contract that it is being bridged to as well, when ready, click on confirm and paste it and press enter.<br>
 
 
 
@@ -127,8 +122,7 @@ Detailed Guide for Bridging
     **Notes:**&#x20;
 
     * As of now, gas fees are around $2-$3 and our bridge provider is not currently charging trading fees. &#x20;
-    *   If your bridge amount is not native a native currency such as USDC, you will need some native currency on that network to swap, for example USDC on the bridged network.\
-
+    *   If your bridge amount is not native a native currency such as USDC, you will need some native currency on that network to swap, for example USDC on the bridged network.<br>
 
         <figure><img src="../.gitbook/assets/SolanaBridge.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -145,14 +139,12 @@ Detailed guide for transferring Currency between wallets
    * Confirm the wallet from which you want to transfer cryptocurrency.
 3. **Enter Memo**: (Only For Ton, Skip Otherwise)
    * For transfers to exchanges, _a memo must be included_.
-   *   For normal transfers, enter `0`.\
-
+   *   For normal transfers, enter `0`.<br>
 
        <figure><img src="../.gitbook/assets/wallettransfer (4).png" alt="" width="375"><figcaption></figcaption></figure>
 4.  **Amount To Transfer:**
 
-    Before initiating the transfer, please review the details carefully to avoid mistakes.\
-
+    Before initiating the transfer, please review the details carefully to avoid mistakes.<br>
 
     **Transfer Details:**
 
@@ -194,7 +186,7 @@ See also[ Reset Settings](settings-overview.md#reset-settings)
 ### Quick Links
 
 * [Home](../)
-* [Getting Started](broken-reference)
+* [Getting Started](/broken/pages/WXbtUkA1oAkQRdqfRC00)
 * [Single Wallet Snipe](single-wallet-snipe.md)
 * [Multi Wallet Snipe](multi-wallet-snipe.md)
 * [Snipe New Launches](snipe-new-launches.md)

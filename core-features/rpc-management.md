@@ -36,7 +36,7 @@ We use Different RPC's For Limit Trading, Sniping & Refreshing Single Snipe Wall
 ### Quick Links
 
 * [Home](../)
-* [Getting Started](broken-reference)
+* [Getting Started](/broken/pages/WXbtUkA1oAkQRdqfRC00)
 * [Single Wallet Snipe](single-wallet-snipe.md)
 * [Multi Wallet Snipe](multi-wallet-snipe.md)
 * [Snipe New Launches](snipe-new-launches.md)

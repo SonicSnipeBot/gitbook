@@ -33,7 +33,7 @@ Earn While Growing the Sonic Ecosystem
 
 ### Getting Started
 
-* [Getting Started](broken-reference)
+* [Getting Started](/broken/pages/WXbtUkA1oAkQRdqfRC00)
 * [Protect your Account](getting-started/protect-your-account.md)
 * [Video Tutorial](https://www.youtube.com/watch?v=8kxs1i2qYTk)
 

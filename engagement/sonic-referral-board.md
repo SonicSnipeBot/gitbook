@@ -55,7 +55,7 @@ Whether you’re inviting new users to the Sonic Portal or sharing contract addr
 ### Quick Links
 
 * [Home](../)
-* [Sonic Benefits](broken-reference)
+* [Sonic Benefits](/broken/pages/u7umODqa9Zv4nQx2k9VN)
 * [Sonic Leader Board](sonic-leader-board.md)
 * [Sonic Referral Board](sonic-referral-board.md)
 * [Sonic Social Board](engage-and-earn-with-sonic.md)

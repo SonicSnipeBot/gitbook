@@ -44,7 +44,7 @@ Your engagement across these platforms helps grow the Sonic ecosystem and can ea
 ### Quick Links
 
 * [Home](../)
-* [Sonic Benefits](broken-reference)
+* [Sonic Benefits](/broken/pages/u7umODqa9Zv4nQx2k9VN)
 * [Sonic Social Board](engage-and-earn-with-sonic.md)
 * [Sonic Referral Board](sonic-referral-board.md)
 * [Sonic Social Board](engage-and-earn-with-sonic.md)

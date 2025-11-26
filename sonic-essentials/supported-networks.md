@@ -1,6 +1,6 @@
 # Supported Networks
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-27 at 1.59.51 pm.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-27 at 1.35.00 am.png" alt="" width="375"><figcaption></figcaption></figure>
 
 | **Mainnet**       |          |           |
 | ----------------- | -------- | --------- |
@@ -15,7 +15,7 @@
 | OpBnb             | Optimism | Linea     |
 | Unichain          | ApeChain | Berachain |
 | Taraxa            | InkChain | HyperEvm  |
-| Story             | Plasma   |           |
+| Story             | Plasma   | Monad     |
 
 **Injective \***
 
