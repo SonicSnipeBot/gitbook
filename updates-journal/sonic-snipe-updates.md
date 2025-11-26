@@ -59,9 +59,21 @@
 
 </details>
 
-
-
 ### November 2025
+
+#### Thu Nov 27 2025
+
+* **12:52 AM** \[v1.1964]: Added Monad Network.
+
+#### Tue Nov 25 2025
+
+* **02:10 AM** \[v1.1963]: Gaspump -integreated
+* **01:59 AM** \[v1.1962]: Get ton meta data correctly
+* **12:47 AM** \[v1.1961]: Ton Upgraded & Fixed on Stonfi Also Dedust Working
+
+#### Fri Nov 21 2025
+
+* **11:22 AM** \[v1.1960]: Small Big Fix Snipe Error
 
 #### Sat Nov 08 2025
 
@@ -82,7 +94,7 @@
 #### Sat Nov 01 2025
 
 * **08:01 PM** \[v1.1955]: Updated Rpc node on Base.
-* **07:52 PM** \[v1.1954]: Updated RPC Networks, Quicknode is now commericialised and are no longer friendly RPC Provider.
+* **07:52 PM** \[v1.1954]: Updated RPC Networks, Quicknode is now commercialised and are no longer friendly RPC Provider.
 * **07:25 PM** \[v1.1953]: Updated Default BSC Rpc
 
 ### October 2025
